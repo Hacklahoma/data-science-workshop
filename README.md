@@ -6,4 +6,4 @@ Replace the `StreamingHistoryX.json` and `final.csv` files with your own once yo
 
 For the Jupyter Notebooks, there are plenty of ways to run them. In our case, the simplest way is to run it locally within VS Code. This should not require any additional setup, you simply need to select Python as the kernel. Otherwise, there are plenty of tutorials out there on setting up environments and running notebooks.
 
-Join the [Hacklahoma Discord](https://discord.gg/VKHua2342W)
+Join the [Hacklahoma Discord](https://discord.gg/SwbB2rhczh)
